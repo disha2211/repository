@@ -1,4 +1,4 @@
 # repository
 this is my first repository
 <br>
-author-disha kaushal
+Author-Disha Kaushal
